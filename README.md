@@ -64,3 +64,4 @@ Tools, research, ideas and experiments, made by muze.nl
 - [Simple Made Easy - Rich Hickey](https://www.infoq.com/presentations/Simple-Made-Easy/)
 - [Core Design Principles for Software Developers - Venkat Subramaniam](https://youtu.be/llGgO74uXMI)
 - [ Upgrading the Web - Douglas Crockford](https://www.programmingtalks.org/talk/douglas-crockford-talks-about-upgrading-the-web-at-httpsangularucom-in-san-francisco)
+- [Small is Beautiful - Kevlin Henney](https://www.programmingtalks.org/talk/small-is-beautiful)
