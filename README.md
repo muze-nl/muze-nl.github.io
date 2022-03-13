@@ -47,3 +47,19 @@ Tools, research, ideas and experiments, made by muze.nl
 ## Historical
 
 - [Ripcord](https://github.com/poef/ripcord)
+
+## Talks & Inspiration
+
+- [Growing a language - Guy Steele](https://youtu.be/_ahvzDzKdB0)
+- [The Future of Programming - Bret Victor](https://youtu.be/8pTEmbeENF4)
+- [The Humane Representation of Thought - Bret Victor](https://youtu.be/agOdP2Bmieg)
+- [Boundaries - Gary Bernhardt](https://www.destroyallsoftware.com/talks/boundaries)
+- [Functional Core, Imperative Shell](https://www.destroyallsoftware.com/screencasts/catalog/functional-core-imperative-shell)
+- [The mother of all demos - Douglas Englebart](https://youtu.be/fhEh3tEL1V4)
+- [Normal Considered Harmful - Alan Kay](https://youtu.be/FvmTSpJU-Xc)
+- [The computer revolution hasn't happened yet - Alan Kay](https://youtu.be/oKg1hTOQXoY)
+- [How to Invent the Future - Alan Kay](https://youtu.be/id1WShzzMCQ)
+- [Back to the Future of Software Development](https://youtu.be/1pXmuh1AUQQ)
+- [The Value of Values - Rich Hickey](https://www.programmingtalks.org/talk/the-value-of-values)
+- [Simple Made Easy - Rich Hickey](https://www.infoq.com/presentations/Simple-Made-Easy/)
+- 
