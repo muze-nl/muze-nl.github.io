@@ -13,6 +13,8 @@ Diátaxis identifies four distinct needs, and four corresponding forms of docume
 - Information: [**Technical References**](./reference/README.md)
 - Understanding: [**Explanations**](./explanation/README.md)
 
+![diataxis map](diataxis-map.png)
+
 [^1]: Diátaxis, from the Ancient Greek [δῐᾰ́τᾰξῐς][2]: dia (“across”) and taxis (“arrangement”).
 
 [1]: https://diataxis.fr/
